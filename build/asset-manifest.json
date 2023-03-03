@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d8911cd.css",
+    "main.js": "/static/js/main.b09ebf55.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/project-img1.png": "/static/media/project-img1.4e12d1925877fa039e7e.png",
+    "static/media/school.png": "/static/media/school.7f8b4825b575fff656a5.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/second.jpg": "/static/media/second.0170b1c98582f121bf91.jpg",
+    "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/collegee.png": "/static/media/collegee.ac5b14a6c1d1b780abd4.png",
+    "static/media/logooooo.png": "/static/media/logooooo.77f52a1b3ec162ab0754.png",
+    "static/media/l.png": "/static/media/l.8a126e280dc41349ecfc.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/env.png": "/static/media/env.cbb9654ef99d7e7bdc75.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon1-1.svg": "/static/media/nav-icon1-1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/download.svg": "/static/media/download.1f528b9fecf0d40536cd240b63bceb7b.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.7d8911cd.css.map": "/static/css/main.7d8911cd.css.map",
+    "main.b09ebf55.js.map": "/static/js/main.b09ebf55.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8911cd.css",
+    "static/js/main.b09ebf55.js"
+  ]
+}
